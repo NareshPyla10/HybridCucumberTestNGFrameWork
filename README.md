@@ -20,7 +20,7 @@ The primary programming language used is Java. The framework is designed to prov
 
 #### 1. Clone the repository:
 
-git clone 
+git clone https://github.com/NareshPyla10/HybridCucumberTestNGFrameWork.git
 cd  HybridCucumberTestNGFrameWork
 
 
