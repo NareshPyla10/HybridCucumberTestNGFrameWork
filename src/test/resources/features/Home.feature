@@ -7,7 +7,3 @@ Feature: Going to the home page
     And user navigates to "Laptops" category
     And user clicks on the "MacBook air" product
     Then quitting the driver
-
-
-
-

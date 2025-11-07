@@ -22,5 +22,3 @@ Feature: verifying signUp and login functionality
     And user is on home page
     When new user tries to signUp
     Then user should be signed up successfully
-
-
